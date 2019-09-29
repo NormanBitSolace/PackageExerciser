@@ -1,0 +1,33 @@
+{
+  "pets": [
+    {
+      "id": 0,
+      "name": "Josie",
+      "breed": "Labrador Retriever",
+      "animalType": 0,
+      "dob": "10/28/2007",
+      "isFemale": true,
+      "isSpayedOrNeutered": true
+    }
+  ],
+  "petOwners": [
+    {
+      "id": 0,
+      "pets": [
+        0
+      ],
+      "firstName": "Norman",
+      "lastName": "Basham"
+    }
+  ],
+  "vets": [
+    {
+      "id": 0,
+      "petOwners": [
+        0
+      ],
+      "firstName": "Heather",
+      "lastName": "Oxford"
+    }
+  ]
+}

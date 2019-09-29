@@ -1,0 +1,115 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BlackLabsBundle",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsBundle.git",
+        "state": {
+          "branch": null,
+          "revision": "ef4531a8cf5da0f8bc5383bee5e9a97ba56a32ba",
+          "version": "1.0.4"
+        }
+      },
+      {
+        "package": "BlackLabsCGGeometery",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsCGGeometery.git",
+        "state": {
+          "branch": null,
+          "revision": "8d718b6d2e02a801f838988a607aa10fb266e333",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "BlackLabsCollection",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsCollection.git",
+        "state": {
+          "branch": null,
+          "revision": "b7cea391bd391f7375e6f386865b45110675a862",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "BlackLabsColor",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsColor.git",
+        "state": {
+          "branch": null,
+          "revision": "145cba663de4c7cb5bc9e67220f8f49c635bfd6f",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "BlackLabsData",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsData.git",
+        "state": {
+          "branch": null,
+          "revision": "402642154e1843a5733e2b457b01c3a08f335004",
+          "version": "1.0.10"
+        }
+      },
+      {
+        "package": "BlackLabsDate",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsDate.git",
+        "state": {
+          "branch": null,
+          "revision": "8af1a807d71cf4008374859063a7ab4d25a0148f",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "BlackLabsDevice",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsDevice.git",
+        "state": {
+          "branch": null,
+          "revision": "b899652997aa9fee764d78ab6cff38c49ae31672",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "BlackLabsFile",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsFile.git",
+        "state": {
+          "branch": null,
+          "revision": "23ea9a3ff97b6e5c29f28d21c066866fe5e966fd",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "BlackLabsNumber",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsNumber.git",
+        "state": {
+          "branch": null,
+          "revision": "fbf9c37024940bda8e31a1e41f1d56e4c92d84c2",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "BlackLabsUserDefaults",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsUserDefaults.git",
+        "state": {
+          "branch": null,
+          "revision": "c6dc53aa6d4de3360bb6599eae0721097aa555c0",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "BlackLabsView",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsView",
+        "state": {
+          "branch": null,
+          "revision": "541705477539f88bd624c4a071db54be60e1a79e",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "BlackLabsViewController",
+        "repositoryURL": "https://github.com/NormanBitSolace/BlackLabsViewController.git",
+        "state": {
+          "branch": null,
+          "revision": "994632124453c9dabd3331984f30eea873fdc86d",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
